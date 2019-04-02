@@ -60,7 +60,7 @@ subscribe("START", function(){
 	SOUNDS.bg_music.play();
 
 	// Hide translations, show navigation
-	$("#translations").style.display = "none";
+	$("#translations").style.display = "block";
 	$("#navigation").style.display = "block";
 
 	// Show Skip Button
